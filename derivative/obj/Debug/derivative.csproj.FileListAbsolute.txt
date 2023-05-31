@@ -1,0 +1,11 @@
+C:\Users\socia\source\repos\derivative\derivative\bin\Debug\derivative.exe.config
+C:\Users\socia\source\repos\derivative\derivative\bin\Debug\derivative.exe
+C:\Users\socia\source\repos\derivative\derivative\bin\Debug\derivative.pdb
+C:\Users\socia\source\repos\derivative\derivative\obj\Debug\derivative.csproj.AssemblyReference.cache
+C:\Users\socia\source\repos\derivative\derivative\obj\Debug\derivative.csproj.SuggestedBindingRedirects.cache
+C:\Users\socia\source\repos\derivative\derivative\obj\Debug\derivative.Form1.resources
+C:\Users\socia\source\repos\derivative\derivative\obj\Debug\derivative.Properties.Resources.resources
+C:\Users\socia\source\repos\derivative\derivative\obj\Debug\derivative.csproj.GenerateResource.cache
+C:\Users\socia\source\repos\derivative\derivative\obj\Debug\derivative.csproj.CoreCompileInputs.cache
+C:\Users\socia\source\repos\derivative\derivative\obj\Debug\derivative.exe
+C:\Users\socia\source\repos\derivative\derivative\obj\Debug\derivative.pdb
